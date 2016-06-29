@@ -1,0 +1,5 @@
+C:\projects\קורס .net\1.2\WhatsMyName\WhatsMyName\bin\Debug\WhatsMyName.exe.config
+C:\projects\קורס .net\1.2\WhatsMyName\WhatsMyName\bin\Debug\WhatsMyName.exe
+C:\projects\קורס .net\1.2\WhatsMyName\WhatsMyName\bin\Debug\WhatsMyName.pdb
+C:\projects\קורס .net\1.2\WhatsMyName\WhatsMyName\obj\Debug\WhatsMyName.exe
+C:\projects\קורס .net\1.2\WhatsMyName\WhatsMyName\obj\Debug\WhatsMyName.pdb
